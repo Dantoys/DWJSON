@@ -1,10 +1,13 @@
 {
     "orderNumber": "2771274",
-    "referenceNumber": "874090833",
-    "legCount": 1,
     "legInfo": [
         {
             "infoText": "Leg 1 (2751736), Drv: KRAJO",
+            "legNumber": "2751736"
+        },
+        {
+            "infoText": "Leg 2 (2762588), Drv: MARDO",
+            "legNumber": "2762588"
         }
     ]
 }
