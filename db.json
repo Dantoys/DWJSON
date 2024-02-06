@@ -8,27 +8,27 @@
   "legInfo": [
     {
                                 "infoText": "Leg 1 (2751736), Drv: KRAJO",
-                                "legNumber": "2751736"
-                                "driverId": "KRAJO"
-                                "tractorNumber": "323002"
-                                "trailerId": "814015"
+                                "legNumber": "2751736",
+                                "driverId": "KRAJO",
+                                "tractorNumber": "323002",
+                                "trailerId": "814015",
                                 "carrierId": ""
                 },
                 {
                                 "infoText": "Leg 2 (2762588), Drv: MARDO",
-                                "legNumber": "2762588"
-                                "driverId": "MARDO"
-                                "tractorNumber": "419001"
-                                "trailerId": "814015"
-                                "carrierId": ""                     
+                                "legNumber": "2762588",
+                                "driverId": "MARDO",
+                                "tractorNumber": "419001",
+                                "trailerId": "814015",
+                                "carrierId": ""
                 },
                 {
-                                "infoText": "Leg 3 (2762604), Drv: WHACH"
-                                "legNumber": "2762604"
-                                "driverId": "WHACH"
-                                "tractorNumber": "422012"
-                                "trailerId": "814015"
-                                "carrierId": ""                     
+                                "infoText": "Leg 3 (2762604), Drv: WHACH",
+                                "legNumber": "2762604",
+                                "driverId": "WHACH",
+                                "tractorNumber": "422012",
+                                "trailerId": "814015",
+                                "carrierId": ""
                 }
   ]
 }
